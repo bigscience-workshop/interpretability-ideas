@@ -9,7 +9,7 @@ A specific group of the BigScience community developed a [vision](https://youtu.
 The implementation of these interpretability insights are the core idea of our Summer of Code! 
 Our ideas are backed by the one-year-long research and are in line with the ongoing projects.
 
-BigScience workshop is community-driven by design, and as the newcomer contributors you will join the community once you start working on proposals.
+BigScience workshop is community-driven by design, and as the newcomer contributors you will [join the community](https://bigscience.notion.site/Information-How-to-join-2519d6a2c6054af5976c76999ebf72e3) once you start working on proposals.
 During the GSoC, we expect contributors to follow the community groups' agenda and attend the sync calls together with all the group contributors.
 
 **Reach out to us on the [bigscience-gsoc@googlegroups.com](bigscience-gsoc@googlegroups.com)** with general questions!</br>
