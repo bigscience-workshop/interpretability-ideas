@@ -1,6 +1,6 @@
 # interpretability-gsoc-ideas
 <img align="right" height="27%" width="27%" src="https://images.squarespace-cdn.com/content/v1/616206d72ac74d0c65656167/4aadf3be-fea0-489d-bfee-4f376e724eb7/sakura-flower-clipart-md-spaces.png?format=250w"/>
-Welcome to our repo to track the BigScience Interpretability group Ideas for the GSoC 2022!
+Welcome to our BigScience Interpretability Ideas repo for the GSoC 2022!
 
 During the BigScience workshop, we've [established a community](https://bigscience.huggingface.co) of collaborators from all around the world. 
 A specific group of the BigScience community developed a [vision](https://youtu.be/NL1_kMOkHm8?t=647) for the exact steps needed to improve the interpretability of NLP models. 
