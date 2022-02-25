@@ -1,5 +1,8 @@
 # Contributors guide
 
+* [`home`](https://github.com/bigscience-workshop/interpretability-gsoc-ideas)
+* ideas are listed as [`issues`](https://github.com/bigscience-workshop/interpretability-gsoc-ideas/issues) in this repo
+
 We want to inform you of how we would like to see the development of your applications.
 
 
