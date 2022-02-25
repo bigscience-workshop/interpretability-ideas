@@ -4,7 +4,7 @@
 **Welcome to our BigScience Interpretability Ideas repo for the GSoC 2022!**
 
 
-During the BigScience workshop, we've [established a community](https://bigscience.huggingface.co) of collaborators from all around the world. 
+During the BigScience workshop, we've established a community of collaborators from all around the world. 
 A specific group of the BigScience community developed a [vision](https://youtu.be/NL1_kMOkHm8?t=647) for the exact steps needed to improve the interpretability of NLP models. 
 The implementation of these interpretability insights are the core idea of our Summer of Code! 
 Our ideas are backed by the one-year-long research and are in line with the ongoing projects.
@@ -15,3 +15,6 @@ During the GSoC, we expect contributors to follow the community groups' agenda a
 **Reach out to us on the [bigscience-gsoc@googlegroups.com](bigscience-gsoc@googlegroups.com)** with general questions!</br>
 **Discuss and propose the [Ideas](https://github.com/bigscience-workshop/interpretability-gsoc-ideas/issues)** in the [Issues](https://github.com/bigscience-workshop/interpretability-gsoc-ideas/issues) threads here!
 
+---
+
+<p align="right"><b>Read more about <a href="https://bigscience.huggingface.co">BigScience</a></b></p>
