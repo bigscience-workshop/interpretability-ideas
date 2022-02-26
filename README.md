@@ -1,4 +1,4 @@
-Disclaimer: We're now actively finalizing our Ideas list, see the huge update on Friday evening of February, 25.
+Disclaimer: We're now actively finalizing our Ideas list, see the huge update on Saturday morning of February, 26.
 
 # BigScience @ GSoC 2022
 <img align="right" height="27%" width="27%" src="https://images.squarespace-cdn.com/content/v1/616206d72ac74d0c65656167/4aadf3be-fea0-489d-bfee-4f376e724eb7/sakura-flower-clipart-md-spaces.png?format=250w"/>
